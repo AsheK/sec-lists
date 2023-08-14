@@ -256,6 +256,7 @@ Jorgee
 JustView
 Jyxobot
 Kenjin\ Spider
+keys-so-bot
 Keyword\ Density
 Kinza
 Kozmosbot
