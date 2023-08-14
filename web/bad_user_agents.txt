@@ -437,6 +437,7 @@ Screaming
 ScreenerBot
 Searchestate
 SearchmetricsBot
+SeekportBot
 SentiBot
 SEOkicks
 SEOkicks-Robot
